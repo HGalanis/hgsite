@@ -1,2 +1,2 @@
 # hgsite
-one page site  for hg 
+one page site for hg projects 
